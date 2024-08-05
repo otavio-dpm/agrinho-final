@@ -1,0 +1,54 @@
+:root {
+    --cor-principal: #918e8e;
+    --cor-botoes: #FFFAF0;
+}
+
+body {
+    background-color: var(--cor-principal);
+}
+
+head {
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #177e39;
+
+}
+
+h2 {
+    color: #000000;
+}
+
+img {
+    border-radius: 10px;
+    width: 50%;
+
+
+
+}
+
+a {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #ffffff;
+    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgb(255, 255, 255);
+    margin-top: 50%;
+
+
+}
+
+#agrinho {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+footer {
+    margin-top:20px;
+}
